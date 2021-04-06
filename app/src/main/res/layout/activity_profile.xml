@@ -7,6 +7,13 @@
     android:background="@color/blueish"
     tools:context=".LoginActivity">
 
+    <!--
+        Tangga pengerjaan : 4 April 2021
+        Nim               : 10118392
+        Nama              : Raden Arvin Rizky Arvianto
+        Kelas             : IF-9
+    -->
+
     <LinearLayout
         android:id="@+id/logo"
         android:layout_width="wrap_content"
